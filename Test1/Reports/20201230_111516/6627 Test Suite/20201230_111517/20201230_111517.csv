@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6627 Test Suite,Chrome 87.0.4280.88,,,2020-12-30 11:15:21,2020-12-30 11:15:46,"25,783s",PASSED
+,,,,,,,
+Test Cases/6627 CASE,Chrome 87.0.4280.88,,,2020-12-30 11:15:21,2020-12-30 11:15:46,"25,111s",PASSED
+"openBrowser("""")",Chrome 87.0.4280.88,,,2020-12-30 11:15:22,2020-12-30 11:15:25,"3,508s",PASSED
+"navigateToUrl(""https://www.transfermarkt.pl/profil/registrieren"")",Chrome 87.0.4280.88,,,2020-12-30 11:15:25,2020-12-30 11:15:34,"9,018s",PASSED
+"click(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/button_Uzgodni""))",Chrome 87.0.4280.88,,,2020-12-30 11:15:34,2020-12-30 11:15:35,"1,010s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Zarejestruj si teraz darmowo_Register_60537b""), Ksywka)",Chrome 87.0.4280.88,,,2020-12-30 11:15:35,2020-12-30 11:15:37,"2,011s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Zrozumiaem_RegisterFormvorname""), Imie)",Chrome 87.0.4280.88,,,2020-12-30 11:15:37,2020-12-30 11:15:38,"0,522s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Imi_RegisterFormnachname""), Nazwisko)",Chrome 87.0.4280.88,,,2020-12-30 11:15:38,2020-12-30 11:15:38,"0,521s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Zrozumiaem_RegisterFormemail""), Email)",Chrome 87.0.4280.88,,,2020-12-30 11:15:38,2020-12-30 11:15:39,"0,624s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_E-mail_RegisterFormemail2""), Remail)",Chrome 87.0.4280.88,,,2020-12-30 11:15:39,2020-12-30 11:15:39,"0,522s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Powtrz e-mail_RegisterFormpasswort1""), haslo)",Chrome 87.0.4280.88,,,2020-12-30 11:15:39,2020-12-30 11:15:40,"0,519s",PASSED
+"setText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Zrozumiaem_RegisterFormpasswort2""), Rhaslo)",Chrome 87.0.4280.88,,,2020-12-30 11:15:40,2020-12-30 11:15:40,"0,516s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/p_Zosta czlonkiem najwikszej spoecznoci pil_4f93c4""), ""Zostań czlonkiem największej społeczności pilkarskiej na świecie!"")",Chrome 87.0.4280.88,,,2020-12-30 11:15:40,2020-12-30 11:15:41,"0,268s",PASSED
+"click(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_Powtrz haso_RegisterFormnutzungsbedin_b536e5""))",Chrome 87.0.4280.88,,,2020-12-30 11:15:41,2020-12-30 11:15:41,"0,284s",PASSED
+"click(findTestObject(""Object Repository/Page_Zarejestruj  Transfermarkt/input_tu_yt0""))",Chrome 87.0.4280.88,,,2020-12-30 11:15:41,2020-12-30 11:15:41,"0,487s",PASSED
